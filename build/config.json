@@ -1,6 +1,6 @@
 {
 	"applicationName": "Junidas Chat",
-	"domain": "JunidasChat.talk.nextcloud.com",
+	"domain": "https://nc.juindas.de",
 	"enforceDomain": false,
 	"brandColor": "#0082C9",
 	"brandFontColor": "#FFFFFF",
